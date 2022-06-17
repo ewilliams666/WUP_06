@@ -107,11 +107,16 @@ fisher.test(table2)
 #fisherXY(mydata$race,mydata$cappun)
 ```
 
+the p-value for the Chi-squared test was 0.0000000000000001. Because the p-value is so small we can reject the null hypothesis. 
+
 ```{r}
 fisherXY(mydata$cappun,mydata$race)
 ```
+ 
  
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+Based upon the information we viewed above, it seems that race does play a factor in whether or not someone is in favor of capitalpushishment. Because of this conclusion is it safe to say the we can reject the null hypothesis, which states that there is no difference. 

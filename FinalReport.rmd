@@ -88,6 +88,8 @@ rowPerc(table2)
 colPerc(table2)
 ```
 
+From the information presented above. It seems that overall white folks are more in favor of capital punishment.
+
 
 ## Inferential Results
 
